@@ -12,6 +12,8 @@
 
 *mentor*:neela santosh
 
+*out put*:![Image](https://github.com/user-attachments/assets/96fa20d3-a669-44c6-8392-026c01ffb327)
+
  *discription about File handling*:
                          File handling in Java involves managing data storage and retrieval operations, enabling programs to interact with files for reading, writing, and manipulation. The java.io package provides core classes for these operations, while java.nio.file offers advanced functionalities.
 Key Classes and Concepts:
